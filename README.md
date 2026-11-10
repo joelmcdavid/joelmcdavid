@@ -1,66 +1,65 @@
-<img width="4032" height="877" alt="image" src="https://github.com/user-attachments/assets/6474841a-6b7f-4c80-ab3f-af02f9a1448a" />
+# 🚀 The Solutionist Playbook
 
+Teaching people how to think, troubleshoot, architect and solve problems from first principles.
 
-##🚀 The Solutionist Playbook
-Teaching people how to think, not what to memorise.
-🎯 Mission
-Develop independent engineers, problem-solvers and architects through first-principles thinking.
+From Beginner → DevOps Engineer → Architect → AI Solutionist
 
-The goal is not to create tool users.
+"Understand the system. Solve the problem. Teach the lesson."
 
-The goal is to create solutionists.
+---
 
-📚 What You'll Learn
-Foundations
-Linux
-Networking
-Git & GitHub
-Bash
-AWS
-Docker
-Terraform
-Kubernetes
-CI/CD
-Monitoring
-Architecture
-Troubleshooting
-🧠 Philosophy
-Technology changes.
+# 🛣️ Solutionist Roadmap 2031
 
+Foundation Engineer
+    ↓
+Production Engineer
+    ↓
+Troubleshooter
+    ↓
+Architect
+    ↓
+AI Solutions Architect
+    ↓
+AI Solutionist
+
+---
+
+The goal is not to master every tool.
+
+The goal is to become capable of solving any problem.
+
+Tools change.
 Principles endure.
 
-Understand the system.
+---
 
-Solve the problem.
+# 🧠 The Solutionist Philosophy
 
-Teach the lesson.
+Most people learn tools.
 
-🗺️ Start Here
-📖 SP-001 Foundations
+Few learn systems.
 
-🐧 SP-002 Linux
+Even fewer learn how to solve problems.
 
-🌐 SP-003 Networking
+A Solutionist asks:
 
-📂 SP-004 Git & GitHub
+"What problem am I solving?"
 
-☁️ SP-005 AWS
+before asking:
 
-🐳 SP-006 Docker
+"What tool should I use?"
 
-🏗️ SP-007 Terraform
+---
 
-⚓ SP-008 Kubernetes
+# ⭐ Featured Repositories
 
-🌟 End Goal
-Move from:
+📘 SP-001-Foundations
+The foundation of engineering, systems thinking and DevOps.
 
-"I know the command."
+🔜 SP-002-Production
 
-To:
+🔜 SP-003-Troubleshooting
 
-"I understand the system."
+🔜 SP-004-Architecture
 
-And ultimately:
-
-"I can solve unfamiliar problems confidently."
+🔜 SP-005-AI-Solutionist
