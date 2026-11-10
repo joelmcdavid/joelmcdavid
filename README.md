@@ -51,15 +51,18 @@ before asking:
 
 ---
 
-# ⭐ Featured Repositories
+# 📚 The Academy
 
-📘 SP-001-Foundations
-The foundation of engineering, systems thinking and DevOps.
+```text
+SP-001 Foundations
+        ↓
+SP-002 Production
+        ↓
+SP-003 Troubleshooting
+        ↓
+SP-004 Architecture
+        ↓
+SP-005 AI Solutionist
+```
 
-🔜 SP-002-Production
-
-🔜 SP-003-Troubleshooting
-
-🔜 SP-004-Architecture
-
-🔜 SP-005-AI-Solutionist
+Every lesson, note, lab and project belongs somewhere in this journey.
